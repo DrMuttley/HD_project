@@ -1,0 +1,3 @@
+W katalogu "dane" znajduj¹ siê 3 zestawy danych, których opis jest do³¹czony w pliku docx.
+W katalogu "mapowanie" znajduj¹ siê odwzorowania wysokoœæ-objêtoœæ w plikach formatu CSV. Nazwa plików zawiera w sobie ID zbiornika oraz jego pojemnoœæ.
+W obu katalogach znajduj¹ siê dwie wersje plików: pierwotne oraz zniekszta³cone, poprzez na³o¿enie anomalii na krzywe kalibracyjne.
